@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "http://localhost:5000",
+  baseURL: "https://nest-js-todo-with-auth.onrender.com",
 });
 
 API.interceptors.request.use((config) => {
