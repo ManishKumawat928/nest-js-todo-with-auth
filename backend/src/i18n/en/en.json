@@ -1,0 +1,5 @@
+{
+    "SUCCESS": "Your request has been successfully shared",
+    "INTERNAL_SERVER_ERROR": "Something went wrong. Please try again later",
+    "NOT_FOUND": "Not found"
+}
